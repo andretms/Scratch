@@ -26,7 +26,7 @@ The MSAL library for iOS and macOS gives your app the ability to sign in to Micr
 
 ## Installation
 
-* Using Cocoapods
+### Using Cocoapods
 
 You can use [CocoaPods](https://cocoapods.org) to remain up to date with MSAL within a specific major version. Include the following line in your podfile:
 
@@ -34,17 +34,17 @@ You can use [CocoaPods](https://cocoapods.org) to remain up to date with MSAL wi
 
 You then you can run either `pod install` (if it's a new PodFile) or `pod update` (if it's an existing PodFile) to get the latest version of MSAL. Subsequent calls to pod update will update to the latest released version of MSAL as well.
 
-* Using Git Submodule
+### Using Git Submodule
 
 If your project is managed in a git repository you can include MSAL as a git submodule. First check the GitHub Releases Page for the latest release tag. Replace <latest_release_tag> with that version.
 
-`git submodule add https://github.com/AzureAD/azure-activedirectory-library-for-objc msal`
-`cd msal`
-`git checkout tags/<latest_release_tag>`
-`cd ..`
-`git add msal`
-`git commit -m "Use ADAL git submodule at <latest_release_tag>"`
-`git push`
+* `git submodule add https://github.com/AzureAD/azure-activedirectory-library-for-objc msal`
+* `cd msal`
+* `git checkout tags/<latest_release_tag>`
+* `cd ..`
+* `git add msal`
+* `git commit -m "Use ADAL git submodule at <latest_release_tag>"`
+* `git push`
 
 ## Samples and Documentation
 
