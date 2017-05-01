@@ -1,47 +1,25 @@
-Microsoft Authentication Library for Apple
+Microsoft Authentication Library
 =====================================
 
-The MSAL library for iOS and macOS gives your app the ability to sign in to Microsoft Azure Active Directory and Microsoft Accounts and begin using the Microsoft Cloud. This library uses industry standard protocols such as OAuth2 and OpenID Connect, provides web API integration with user level consent, and two factor authentication support among many other features.
+Description that should be at most a few lines. We want to keep the README to one page if possible. The rest should be documented in code or docs.
+
+* Bullets are fine
+* if used in moderatio
+
+Of course.
 
 ## Example
 
-`     if let application = try? MSALPublicClientApplication.init(clientId: kClientID, authority: kAuthority) {
 
-        application.acquireToken(forScopes: kScopes) { (result, error) in
-            if result != nil {
+This is a 
 
-                    // Set up your app for the user
-          } else {
-                print(error?.localizedDescription)
-            }
-        }
-    }
-        
-    else {
-            print(Unable to create application.)
-        }`
+`only few lines of sample code to call the API. Should be aquireToken for whatever platform. Nothing more.`
+
+and larger documentation should go below, but really should be in docs.
 
 ## Installation
 
-* Using Cocoapods
-
-You can use [CocoaPods](https://cocoapods.org) to remain up to date with MSAL within a specific major version. Include the following line in your podfile:
-
-`pod 'MSAL'`
-
-You then you can run either `pod install` (if it's a new PodFile) or `pod update` (if it's an existing PodFile) to get the latest version of MSAL. Subsequent calls to pod update will update to the latest released version of MSAL as well.
-
-* Using Git Submodule
-
-If your project is managed in a git repository you can include MSAL as a git submodule. First check the GitHub Releases Page for the latest release tag. Replace <latest_release_tag> with that version.
-
-`git submodule add https://github.com/AzureAD/azure-activedirectory-library-for-objc msal`
-`cd msal`
-`git checkout tags/<latest_release_tag>`
-`cd ..`
-`git add msal`
-`git commit -m "Use ADAL git submodule at <latest_release_tag>"`
-`git push`
+A few sentences about how to use a package manager to install the library. Also shouldn't go in to deep detail. 
 
 ## Samples and Documentation
 
