@@ -1,14 +1,25 @@
 Microsoft Authentication Library
 =====================================
 
+Description that should be at most a few lines. We want to keep the README to one page if possible. The rest should be documented in code or docs.
+
+* Bullets are fine
+* if used in moderatio
+
+Of course.
+
 ## Example
 
 
 This is a 
 
-`few lines only of sample code to call the API`
+`only few lines of sample code to call the API. Should be aquireToken for whatever platform. Nothing more.`
 
 and larger documentation should go below, buut really should be in docs.
+
+## Installation
+
+A few sentences about how to use a package manager to install the library. Also shouldn't go in to deep detail. 
 
 ## Samples and Documentation
 
@@ -27,6 +38,10 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 ### Security Reporting
 
 If you find a security issue with our libraries or services please report it to [secure@microsoft.com](mailto:secure@microsoft.com) with as much detail as possible. Your submission may be eligible for a bounty through the [Microsoft Bounty](http://aka.ms/bugbounty) program. Please do not post security issues to GitHub Issues or any other public site. We will contact you shortly upon receiving the information. We encourage you to get notifications of when security incidents occur by visiting [this page](https://technet.microsoft.com/en-us/security/dd252948) and subscribing to Security Advisory Alerts.
+
+
+## 
+
 
 
 
