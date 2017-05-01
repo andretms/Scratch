@@ -15,7 +15,7 @@ This is a
 
 `only few lines of sample code to call the API. Should be aquireToken for whatever platform. Nothing more.`
 
-and larger documentation should go below, buut really should be in docs.
+and larger documentation should go below, but really should be in docs.
 
 ## Installation
 
