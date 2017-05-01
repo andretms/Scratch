@@ -1,19 +1,13 @@
 Microsoft Authentication Library
 =====================================
 
-Description that should be at most a few lines. We want to keep the README to one page if possible. The rest should be documented in code or docs.
-
-* Bullets are fine
-* if used in moderatio
-
-Of course.
+The MSAL library for <platform> gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com).
 
 ## Example
 
-
 This is a 
 
-`only few lines of sample code to call the API. Should be aquireToken for whatever platform. Nothing more.`
+`few lines of sample code to call the API. Should be aquireToken for whatever platform. Nothing more.`
 
 and larger documentation should go below, but really should be in docs.
 
@@ -23,11 +17,11 @@ A few sentences about how to use a package manager to install the library. Also 
 
 ## Samples and Documentation
 
-We provide a full suite of [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide) and [sample applications](https://github.com/Azure-Samples) to help you get started with the Azure Identity system. We also provide docs for authentication flows such as OAuth2, OpenID Connect, Graph API, and other awesome features. 
+We provide [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide) and [sample applications](https://github.com/Azure-Samples) to help you get started. We also provide docs for authentication flows, accessing the Microsoft Graph, and other awesome features. 
 
 ## Community Help and Support
 
-We leverage [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
+We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
 
 If you find and bug or have a feature request, please raise the issue on GitHub Issues for this repo.
 
