@@ -5,7 +5,8 @@ The MSAL library for iOS and macOS gives your app the ability to sign in to Micr
 
 ## Example
 
-`     if let application = try? MSALPublicClientApplication.init(clientId: kClientID, authority: kAuthority) {
+```swift
+     if let application = try? MSALPublicClientApplication.init(clientId: kClientID, authority: kAuthority) {
 
         application.acquireToken(forScopes: kScopes) { (result, error) in
             if result != nil {
@@ -19,7 +20,9 @@ The MSAL library for iOS and macOS gives your app the ability to sign in to Micr
         
     else {
             print(Unable to create application.)
-        }`
+        }
+        
+```
 
 ## Installation
 
