@@ -19,7 +19,7 @@ The MSAL library for iOS and macOS gives your app the ability to sign in to Micr
     }
         
     else {
-            print(Unable to create application.)
+            print("Unable to create application.")
         }
         
 ```
