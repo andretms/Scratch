@@ -1,7 +1,13 @@
 Microsoft Authentication Library for Apple
 =====================================
 
+| [Code Samples](https://github.com/azure-samples?utf8=✓&q=active-directory-ios) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Developer Guide](https://aka.ms/aaddev)
+| --- | --- | --- |
+
+
 The MSAL library for iOS and macOS gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com).
+
+[![Build Status](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc.svg?branch=dev](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc)
 
 ## Example
 
