@@ -1,8 +1,8 @@
 Microsoft Authentication Library for Apple
 =====================================
 
-| [Code Samples](https://github.com/azure-samples?utf8=✓&q=active-directory-ios) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Developer Guide](https://aka.ms/aaddev)
-| --- | --- | --- |
+| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](https://github.com/brandwe/Scratch/blob/master/README-example.md#community-help-and-support) 
+| --- | --- | --- | --- |
 
 
 The MSAL library for iOS and macOS gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com).
@@ -52,15 +52,13 @@ If your project is managed in a git repository you can include MSAL as a git sub
 * `git commit -m "Use ADAL git submodule at <latest_release_tag>"`
 * `git push`
 
-## Samples and Documentation
-
-We provide [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide) and [sample applications](https://github.com/Azure-Samples) to help you get started. We also provide docs for authentication flows, accessing the Microsoft Graph, and other awesome features. 
-
 ## Community Help and Support
 
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
 
-If you find and bug or have a feature request, please raise the issue on GitHub Issues for this repo.
+If you find and bug or have a feature request, please raise the issue on [GitHub Issues](https://feedback.azure.com/forums/169401-azure-active-directory). 
+
+To provide a recommendation, visit our [User Voice page](https://feedback.azure.com/forums/169401-azure-active-directory).
 
 ## Contribute
 

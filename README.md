@@ -19,10 +19,6 @@ and larger documentation should go below, but really should be in docs.
 
 A few sentences about how to use a package manager to install the library. Also shouldn't go in to deep detail. 
 
-## Samples and Documentation
-
-We provide [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-developers-guide) and [sample applications](https://github.com/Azure-Samples) to help you get started. We also provide docs for authentication flows, accessing the Microsoft Graph, and other awesome features. 
-
 ## Community Help and Support
 
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
