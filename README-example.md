@@ -1,7 +1,7 @@
 Microsoft Authentication Library for Apple
 =====================================
 
-| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
+| [Get Started](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
 | --- | --- | --- | --- | --- |
 
 
