@@ -1,7 +1,7 @@
 Microsoft Authentication Library
 =====================================
 
-| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
+| [Getting Started](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
 | --- | --- | --- | --- | --- |
 
 
