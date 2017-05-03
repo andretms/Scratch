@@ -1,8 +1,8 @@
 Microsoft Authentication Library
 =====================================
 
-| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../issues) | Supports: platform 4.5+  
-| --- | --- | --- | --- | --- | --- |
+| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
+| --- | --- | --- | --- | --- |
 
 
 The MSAL library for **platform** gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com) in a converged experience using industry standard OAuth2 and OpenID Connect. The library also supports [Microsoft Azure B2C](https://azure.microsoft.com/services/active-directory-b2c/) for those using our hosted identity management service.
@@ -23,7 +23,7 @@ A few sentences about how to use a package manager to install the library. Also 
 
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
 
-If you find and bug or have a feature request, please raise the issue on [GitHub Issues](https://feedback.azure.com/forums/169401-azure-active-directory). 
+If you find and bug or have a feature request, please raise the issue on [GitHub Issues](../../issues). 
 
 To provide a recommendation, visit our [User Voice page](https://feedback.azure.com/forums/169401-azure-active-directory).
 
