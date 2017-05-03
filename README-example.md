@@ -5,7 +5,7 @@ Microsoft Authentication Library for Apple
 | --- | --- | --- | --- |
 
 
-The MSAL library for iOS and macOS gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com).
+The MSAL library for macOS and iOS gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com) in a converged experience using industry standard OAuth2 and OpenID Connect. The library also supports [Microsoft Azure B2C](https://azure.microsoft.com/services/active-directory-b2c/) for those using our hosted identity management service.
 
 [![Build Status](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc.svg?branch=dev)](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc)
 
@@ -13,21 +13,17 @@ The MSAL library for iOS and macOS gives your app the ability to begin using the
 
 ```swift
      if let application = try? MSALPublicClientApplication.init(clientId: kClientID, authority: kAuthority) {
-
         application.acquireToken(forScopes: kScopes) { (result, error) in
             if result != nil {
-
                     // Set up your app for the user
           } else {
                 print(error?.localizedDescription)
             }
         }
     }
-        
     else {
             print("Unable to create application.")
-        }
-        
+        } 
 ```
 
 ## Installation
@@ -73,6 +69,7 @@ This library controls how users sign-in and access services. We recommend you al
 ### Security Reporting
 
 If you find a security issue with our libraries or services please report it to [secure@microsoft.com](mailto:secure@microsoft.com) with as much detail as possible. Your submission may be eligible for a bounty through the [Microsoft Bounty](http://aka.ms/bugbounty) program. Please do not post security issues to GitHub Issues or any other public site. We will contact you shortly upon receiving the information. We encourage you to get notifications of when security incidents occur by visiting [this page](https://technet.microsoft.com/en-us/security/dd252948) and subscribing to Security Advisory Alerts.
+
 
 
 Copyright (c) Microsoft Corporation.  All rights reserved. Licensed under the MIT License (the "License");
