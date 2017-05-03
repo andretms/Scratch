@@ -1,7 +1,7 @@
 Microsoft Authentication Library for Apple
 =====================================
 
-| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](https://github.com/brandwe/Scratch/blob/master/README-example.md#community-help-and-support) 
+| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support](README#community-help-and-support) 
 | --- | --- | --- | --- |
 
 
@@ -44,7 +44,7 @@ You then you can run either `pod install` (if it's a new PodFile) or `pod update
 
 If your project is managed in a git repository you can include MSAL as a git submodule. First check the GitHub Releases Page for the latest release tag. Replace <latest_release_tag> with that version.
 
-* `git submodule add https://github.com/AzureAD/azure-activedirectory-library-for-objc msal`
+* `git submodule add https://github.com/AzureAD/microsoft-authentication-library-for-objc msal`
 * `cd msal`
 * `git checkout tags/<latest_release_tag>`
 * `cd ..`
@@ -56,7 +56,7 @@ If your project is managed in a git repository you can include MSAL as a git sub
 
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
 
-If you find and bug or have a feature request, please raise the issue on [GitHub Issues](https://feedback.azure.com/forums/169401-azure-active-directory). 
+If you find and bug or have a feature request, please raise the issue on [GitHub Issues](microsoft-authentication-library-for-objc/issues). 
 
 To provide a recommendation, visit our [User Voice page](https://feedback.azure.com/forums/169401-azure-active-directory).
 
