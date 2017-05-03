@@ -1,8 +1,8 @@
 Microsoft Authentication Library
 =====================================
 
-| [Code Samples](https://github.com/azure-samples?utf8=✓&q=active-directory-ios) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Developer Guide](https://aka.ms/aaddev)
-| --- | --- | --- |
+| [QuickStart](https://aka.ms/aaddev)| [Sample](https://github.com/azure-samples?utf8=✓&q=active-directory-ios) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support]() 
+| --- | --- | --- | --- |
 
 
 The MSAL library for <platform> gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com). You can find the latest changelogs and versions under releases. 
@@ -27,7 +27,9 @@ We provide [documentation](https://docs.microsoft.com/en-us/azure/active-directo
 
 We use [Stack Overflow](http://stackoverflow.com/questions/tagged/msal) with the community to provide support. We highly recommend you ask your questions on Stack Overflow first and browse existing issues to see if someone has asked your question before. 
 
-If you find and bug or have a feature request, please raise the issue on GitHub Issues for this repo.
+If you find and bug or have a feature request, please raise the issue on [GitHub Issues](https://feedback.azure.com/forums/169401-azure-active-directory). 
+
+To provide a recommendation, visit our [User Voice page](https://feedback.azure.com/forums/169401-azure-active-directory).
 
 ## Contribute
 
