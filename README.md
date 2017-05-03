@@ -1,7 +1,7 @@
 Microsoft Authentication Library
 =====================================
 
-| [QuickStart](https://aka.ms/aaddev)| [Sample](https://github.com/azure-samples?utf8=✓&q=active-directory-ios) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support]() 
+| [Quick Start](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [Reference Docs](http://cocoadocs.org/docsets/MSAL/) | [Support]() 
 | --- | --- | --- | --- |
 
 
