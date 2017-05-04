@@ -1,11 +1,11 @@
 Microsoft Authentication Library
 =====================================
 
-| [Getting Started](https://aka.ms/aaddev)| [Docs](https://aka.ms/aaddev) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support) | [Releases](../../releases)
-| --- | --- | --- | --- | --- |
+| [Getting Started](https://aka.ms/aaddev)| [Sample Code](https://aka.ms/aaddev) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support)
+| --- | --- | --- | --- |
 
 
-The MSAL library for **platform** gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com) in a converged experience using industry standard OAuth2 and OpenID Connect. The library also supports [Microsoft Azure B2C](https://azure.microsoft.com/services/active-directory-b2c/) for those using our hosted identity management service.
+The MSAL library for **platform** gives your app the ability to begin using the [Microsoft Cloud](https://cloud.microsoft.com) by supporting [Microsoft Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/) and [Microsoft Accounts](https://account.microsoft.com) in a converged experience using industry standard OAuth2 and OpenID Connect. The library also supports [Azure AD B2C](https://azure.microsoft.com/services/active-directory-b2c/).
 
 ## Example
 
