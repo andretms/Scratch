@@ -1,7 +1,7 @@
 Microsoft Authentication Library
 =====================================
 
-| [Getting Started](https://apps.dev.microsoft.com/portal/register-app)| [Sample Code](https://aka.ms/aaddev) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support)
+| [Getting Started](https://apps.dev.microsoft.com/portal/register-app)| [Documentation](https://aka.ms/aaddev) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support)
 | --- | --- | --- | --- |
 
 
