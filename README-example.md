@@ -9,6 +9,10 @@ The MSAL library for macOS and iOS gives your app the ability to begin using the
 
 [![Build Status](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc.svg?branch=dev)](https://travis-ci.org/AzureAD/microsoft-authentication-library-for-objc)
 
+## Important Note about the MSAL Preview
+
+These libraries are suitable to use in a production environment. We provide the same production level support for these libraries as we do our current production libraries. However during the preview we reserve the right to make changes to the API, cache format, and other mechanisms of this library without notice. For instance, users may need to sign in again. In addition, any fixes we provide you may also contain these changes and will require you to update your code.  When we provide our General Availability release later, we will require you to update your application to our General Availabilty version to continue to get support. 
+
 ## Example
 
 ```swift
