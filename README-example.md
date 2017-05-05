@@ -1,8 +1,8 @@
 Microsoft Authentication Library for Apple
 =====================================
 
-| [Getting Started](https://apps.dev.microsoft.com/portal/register-app)| [Docs](https://aka.ms/aaddev) | [Sample](https://github.com/azure-samples/) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support)
-| --- | --- | --- | --- | -- |
+| [Getting Started](https://apps.dev.microsoft.com/portal/register-app)| [Sample](https://github.com/azure-samples/) | [API Reference](http://cocoadocs.org/docsets/MSAL/) | [Support](README.md#community-help-and-support)
+| --- | --- | --- | --- |
 
 
 
